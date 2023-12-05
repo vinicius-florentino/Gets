@@ -37,7 +37,7 @@
 
 @if(count($products)>=1)
     <h2 class="pb-2">
-        Últimos produtos:
+        Últimos produtos lançados:
     </h2>
     <div class="row d-flex justify-content-center">
     @foreach($products as $product)
